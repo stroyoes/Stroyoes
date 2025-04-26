@@ -43,8 +43,6 @@ Welcome to my GitHub profile! I'm just a student pursuing my undergraduate degre
 - **🎮 Game development** – Pyxel and pixel-art games in Python  
 - **⚡ Optimizing Python code** – making things run **faster & cleaner**    
 
-- ⚡ Fun fact: My RAM remembers more than I do 🧠💾  
-
 
 </td><td valign="top" width="50%">
 

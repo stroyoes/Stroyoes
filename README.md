@@ -25,9 +25,7 @@ Welcome to my GitHub profile! I'm just a student pursuing my undergraduate degre
 
 <br/>  
 
-
 ## More about me 
-<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on
 
@@ -43,20 +41,11 @@ Welcome to my GitHub profile! I'm just a student pursuing my undergraduate degre
 - **🎮 Game development** – Pyxel and pixel-art games in Python  
 - **⚡ Optimizing Python code** – making things run **faster & cleaner**    
 
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://github.com/user-attachments/assets/6c86af03-04e5-466b-a6bb-5646738283fb" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
 <br/>  
 
 
-## Languages and Tools  
+## Languages and Tools
+
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  

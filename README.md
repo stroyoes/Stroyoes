@@ -1,6 +1,6 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=Stroyoes&&style=flat-square)  
 
-## Hey 👋, I'm <u>Stroyoes</u>  
+## Hey 👋, I'm <ins>**`Stroyoes`**</ins>
   
 
 <a href="https://github.com/Stroyoes" target="_blank">
@@ -15,71 +15,38 @@
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
   
+### 😃 <ins>Hi there !</ins> 
 
-### Hi there !
+Welcome to my GitHub profile! I'm just a student pursuing my undergraduate degree, passionate about embedded programming. I also like web development (though I have a love-hate relationship with JavaScript 😅). 
+Currently, I'm working on a pixel-art game in Python using the [Pyxel](https://github.com/kitao/pyxel) engine — **[Check it out!](your-game-link-here)** 🚀 
+At the same time, I'm diving deep into data structures and algorithms to level up my problem-solving skills on LeetCode. 💻📈
 
-Welcome to my GitHub profile! I'm just a student pursuing my undergraduate degree, passionate about embedded programming and still learning C. I also like web development (though I have a love-hate relationship with JavaScript 😅). Currently, I'm working on a pixel-art game in Python using the [Pyxel](https://github.com/kitao/pyxel) engine — **[Check it out!](your-game-link-here)** 🚀
-
-> If you're wondering how to pronounce my name, it's 'Straw-ees' (like 'straw' and 'ease')  
-  
-
-<br/>  
-
-## More about me 
-
-- 🔭 I’m currently working on
-
-- 🌱 I’m currently learning 
-    - C Programming Language
-    - Embedded Systems
-    - Exploring FastAPI, React, and other web technologies.
-
-#### **🚀 Ask Me About:**  
-- **🐍 Python wizardry** – from scripting to full-stack development  
-- **🛠️ Building efficient backends** – FastAPI, Flask, SQL  
-- **🤖 AI & automation** – writing Python scripts that do the work for you  
-- **🎮 Game development** – Pyxel and pixel-art games in Python  
-- **⚡ Optimizing Python code** – making things run **faster & cleaner**    
-
-<br/>  
+> If you're wondering how to pronounce my name, it's 'Straw-ees' (like 'straw' and 'ease') 
 
 
-## Languages and Tools
+### ✅ <ins>Skills I know:</ins>
+- 🐍 Python / CPython
+- 📊 Pandas, NumPy
+- 💻 C
+- 🌐 HTML, CSS, JavaScript
+- 🐬 MySQL
+- 🧪 Flask
+- 🐚 Bash
+- 🐧 Linux
+- 🗃️ Git & GitHub
+- 🌱 Node.js
 
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://deno.land/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/deno.svg" alt="Deno" height="50" /></a>  
-<a href="https://cython.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cython-original.svg" alt="Cython" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-</div>  
+### 📘 <ins>What I’m learning / Want to learn:</ins>
+- 🦀 Rust
+- 🐹 Go
+- 🤖 OpenCV, TensorFlow, PyTorch
+- ☕ Java
+- 💠 C++, C#
+- 🎯 TypeScript, Deno
+- 🔌 Arduino, Raspberry Pi
+- 🐉 Lua
 
-<br/>  
+### 💪 <ins>**Github stats**</ins> 
 
+![Stroyoes GitHub stats](https://github-readme-stats.vercel.app/api?username=stroyoes&show_icons=true&theme=transparent&hide_title=true)
 
-## Github Stats  
-
-<div style="text-align: center;">
-<img src="https://github-readme-stats.vercel.app/api?username=Stroyoes&show_icons=true&count_private=true&hide_border=true" align="right"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stroyoes&hide_border=true&layout=compact" align="left"/>
-</div>
-<br />

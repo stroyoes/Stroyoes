@@ -48,5 +48,13 @@ At the same time, I'm diving deep into data structures and algorithms to level u
 
 ### 💪 <ins>**Github stats**</ins> 
 
-![Stroyoes GitHub stats](https://github-readme-stats.vercel.app/api?username=stroyoes&show_icons=true&theme=transparent&hide_title=true)
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=stroyoes&amp;show_icons=true&amp;theme=transparent&amp;hide_title=true" alt="Stroyoes GitHub stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stroyoes&amp;theme=transparent&amp;hide_progress=false&amp;hide_title=true" alt="Top Langs">
+    </td>
+  </tr>
+</table>

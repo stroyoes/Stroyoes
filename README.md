@@ -18,7 +18,7 @@
 ### 😃 <ins>Hi there !</ins> 
 
 Welcome to my GitHub profile! I'm just a student pursuing my undergraduate degree, passionate about embedded programming. I also like web development (though I have a love-hate relationship with JavaScript 😅). 
-Currently, I'm working on a pixel-art game in Python using the [Pyxel](https://github.com/kitao/pyxel) engine — **[Check it out!](your-game-link-here)** 🚀 
+Right now, I'm collaborating with my team [Kainos]() on an exciting [embedded project]() . 🚗✨
 At the same time, I'm diving deep into data structures and algorithms to level up my problem-solving skills on LeetCode. 💻📈
 
 > If you're wondering how to pronounce my name, it's 'Straw-ees' (like 'straw' and 'ease') 

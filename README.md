@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm just a student pursuing my undergraduate degre
 Right now, I'm collaborating with my team [Kainos]() on an exciting [embedded project]() . 🚗✨
 At the same time, I'm diving deep into data structures and algorithms to level up my problem-solving skills on LeetCode. 💻📈
 
-> If you're wondering how to pronounce my name, it's 'Straw-ees' (like 'straw' and 'ease') 
+> If you're wondering how to pronounce my name, it's 'straw-ees' (like 'straw' and 'ease') 
 
 
 ### ✅ <ins>Skills I know:</ins>
